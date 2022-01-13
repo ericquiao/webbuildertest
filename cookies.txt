@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hansenpartners.net	TRUE	/	FALSE	1999999999	ahoy_visitor	96fabb47-0baf-4b94-bdba-9cf5800aaa07
+hansenpartners.net	TRUE	/	FALSE	1999999999	ahoy_track	true
+hansenpartners.net	TRUE	/	FALSE	1999999999	ahoy_visit	eaae63cc-a6ef-4440-a111-56b1bff6c723
+hansenpartners.net	TRUE	/	FALSE	1999999999	_mls_search_v1	aXRqQThXQ2pkNStaUGhRTklvdDRnVERhditETHNCM1phSWlhaC9XY0FZUnNoMG9BaTVTMlhENWZLcit0dWE0QTBoUHdXZjVrMlBaYS9pLzM0RFd1OUVNTFg1OW80elZHOUc1OG8ydG1HZWlVK1FaSnZ0RlpkUE95UnhDcFZCZytseExSZE5IYk1CeUR4OEpiYkNXSmFnPT0tLUVuNmJEOWJBS3JFbUpqUkQrT0hGaXc9PQ%3D%3D--741b8a1741b0c83319e795b8a53be382372f8d19
+
